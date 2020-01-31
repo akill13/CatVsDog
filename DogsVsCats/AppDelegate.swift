@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  DogsVsCats
 //
-//  Created by Brian Advent on 17.01.18.
-//  Copyright © 2018 Brian Advent. All rights reserved.
 //
 
 import UIKit
